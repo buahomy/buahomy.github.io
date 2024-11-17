@@ -10,4 +10,3 @@ Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming (In Pr
 Python, Java, Kotlin
 
 ### You can contact me at: buahomy@whitman.edu
-### LinkedIn Profile: linkedin.com/in/yuttanawee-buahom-910a09270
