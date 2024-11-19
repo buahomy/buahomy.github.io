@@ -1,4 +1,3 @@
-# Hi My name is Pure
 
 ## CS Major Sophomore at Whitman College
 
@@ -8,5 +7,8 @@ Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming (In Pr
 
 ### I am fluent in: 
 Python, Java, Kotlin
+
+### Plotly Embedding: 
+{% include_relative Where's Schueller.html %}
 
 ### You can contact me at: buahomy@whitman.edu
