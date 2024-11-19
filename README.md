@@ -9,6 +9,6 @@ Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming (In Pr
 Python, Java, Kotlin
 
 ### Plotly Embedding: 
-{% include_relative Where's Schueller.html %}
+{% include_relative Schueller.html %}
 
 ### You can contact me at: buahomy@whitman.edu
