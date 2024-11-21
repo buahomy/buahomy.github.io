@@ -11,21 +11,42 @@ Python, Java, Kotlin
 ### You can contact me at: buahomy@whitman.edu
 
 
-### As a final project for the Intro to Data Science class(CS-215) that I take in Spring'25, I am looking to explore more about aspect of Natural Language Processing(NLP) to implete the Fake News Detector Algorithm and capture the patterns of it through visualizations.
-Here is a list of five data sources I hope to work with:
+## **Final Project Proposal: Intro to Data Science (CS-215)**
 
-1. This link contains 2 csv files that I hope to train the model with from Kaggle: fake and true news. They are mostly plotics-related news.[Link to Dataset](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+### **Exploration of NLP and Fake News Detection**
 
-2. Another option to strengthen the algorithm, I plan to use the transfer learning from HuggingFace; the pre-trained model that can capture the sentiment and context of the words.[Link to Dataset] (https://huggingface.co/jy46604790/Fake-News-Bert-Detect)
+As part of my final project for the Intro to Data Science class (CS-215) in Spring 2025, I aim to explore the field of Natural Language Processing (NLP) by implementing a **Fake News Detector Algorithm**. My goal is to analyze patterns in fake and real news articles and visualize the results using various techniques.
 
-Additionally, With the upbringing of the new era in AI from OpenAI, they have revolutionized the industry of media with the AI-generated media that is hard to tell if they are real or not days by days.
-I also want to challenge myself a bit and do something that is more transformative: my second plan for the final project is to do the AI-Generated Image Detector.
+### **Data Sources for Fake News Detection**
 
-3. This is the open-sourced site for the fake image dataset. It consists of two folders, ImageData and MetaData. ImageData contains the compressed packages of the Fake Image Dataset, while MetaData contains the labeling information of the corresponding data indicating whether they are real or fake. [Link to Dataset] (https://openxlab.org.cn/datasets/whlzy/FakeImageDataset/tree/main)
+1. **Kaggle Fake News Detection Datasets**  
+   This dataset contains two CSV files (`fake.csv` and `true.csv`) with politics-related news that I hope to use for training my model.  
+   [Link to Dataset](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
 
-4. This is an alternative source from Hugging Face in case the openxlab does not work out for me. [Link to Dataset] (https://huggingface.co/datasets/InfImagine/FakeImageDataset/tree/main)
+2. **Hugging Face Pre-Trained Model**  
+   To enhance the algorithm, I plan to leverage transfer learning using Hugging Face's pre-trained model, which captures sentiment and context effectively.  
+   [Link to Pre-Trained Model](https://huggingface.co/jy46604790/Fake-News-Bert-Detect)
 
-5. Lastly, this is the dataset from CIFAKE in Kaggle containing 60,000 synthetically-generated images and 60,000 real images. I can also share my work with under the "code" tab too as well as seeing how others have done them and planning to optimize accordingly. [Link to Dataset] (https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
+---
+
+## **AI-Generated Image Detector**
+
+With the rise of AI-generated media from platforms like OpenAI, distinguishing real from synthetic media has become increasingly challenging. For my second project idea, I aim to develop an **AI-Generated Image Detector** that identifies whether an image is real or AI-generated. 
+
+### **Data Sources for AI-Generated Image Detection**
+
+1. **OpenXLab Fake Image Dataset**  
+   This open-source dataset includes folders `ImageData` (containing compressed fake image datasets) and `MetaData` (labeling information).  
+   [Link to Dataset](https://openxlab.org.cn/datasets/whlzy/FakeImageDataset/tree/main)
+
+2. **Hugging Face Fake Image Dataset**  
+   An alternative dataset hosted on Hugging Face, providing similar labeling and metadata.  
+   [Link to Dataset](https://huggingface.co/datasets/InfImagine/FakeImageDataset/tree/main)
+
+3. **Kaggle CIFAKE Dataset**  
+   This dataset contains 60,000 synthetically-generated images and 60,000 real images. It also provides an opportunity to share and optimize my work alongside other practitioners.  
+   [Link to Dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
+---
 
 ### Plotly Embedding: 
 {% include_relative Schueller.html %}
