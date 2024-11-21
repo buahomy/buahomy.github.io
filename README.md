@@ -8,8 +8,33 @@ Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming (In Pr
 ### I am fluent in: 
 Python, Java, Kotlin
 
+### You can contact me at: buahomy@whitman.edu
+
+
+### As a final project for the Intro to Data Science class(CS-215) that I take in Spring'25, I am looking to explore more about aspect of Natural Language Processing(NLP) to implete the Fake News Detector Algorithm and capture the patterns of it through visualizations.
+Here is a list of five data sources I hope to work with:
+
+1. This link contains 2 csv files that I hope to train the model with from Kaggle: fake and true news. They are mostly plotics-related news.
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
+2. Another option to strengthen the algorithm, I plan to use the transfer learning from HuggingFace; the pre-trained model that can capture the sentiment and context of the words.
+https://huggingface.co/jy46604790/Fake-News-Bert-Detect
+
+Additionally, With the upbringing of the new era in AI from OpenAI, they have revolutionized the industry of media with the AI-generated media that is hard to tell if they are real or not days by days.
+I also want to challenge myself a bit and do something that is more transformative: my second plan for the final project is to do the AI-Generated Image Detector.
+
+3. This is the open-sourced site for the fake image dataset. It consists of two folders, ImageData and MetaData. ImageData contains the compressed packages of the Fake Image Dataset, while MetaData contains the labeling information of the corresponding data indicating whether they are real or fake.
+https://openxlab.org.cn/datasets/whlzy/FakeImageDataset/tree/main
+
+4. This is an alternative source from Hugging Face in case the openxlab does not work out for me. 
+https://huggingface.co/datasets/InfImagine/FakeImageDataset/tree/main
+
+5. Lastly, this is the dataset from CIFAKE in Kaggle containing 60,000 synthetically-generated images and 60,000 real images. I can also share my work with under the "code" tab too as well as seeing how others have done them and planning to optimize accordingly.
+https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
+
 ### Plotly Embedding: 
 {% include_relative Schueller.html %}
-Hello making changee
 
-### You can contact me at: buahomy@whitman.edu
+### Above & Beyond: 
+{% include_relative K-Means_Centroids_Above_and_Beyond_Minimal.html %}
+
