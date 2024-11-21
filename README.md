@@ -1,5 +1,6 @@
 
-## CS Major Sophomore at Whitman College
+## About Me: 
+CS Major Sophomore at Whitman College
 
 ## Relevant Coursework: 
 Computational Problem Solving, Multivariable Calculus, Machine Learning , Data Structures &
