@@ -1,19 +1,20 @@
 
-# CS Major Sophomore at Whitman College
+## CS Major Sophomore at Whitman College
 
-# Relevant Coursework: 
+## Relevant Coursework: 
 Computational Problem Solving, Multivariable Calculus, Machine Learning , Data Structures &
 Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming (In Progress), Statistics with Applications (In Progress), Intro to Data Science (In Progress)
 
-# I am fluent in: 
+## I am fluent in: 
 Python, Java, Kotlin
 
-# You can contact me at: buahomy@whitman.edu
+## You can contact me at: 
+buahomy@whitman.edu
 
 
-# **Final Project Proposal: Intro to Data Science (CS-215)**
+## **Final Project Proposal: Intro to Data Science (CS-215)**
 
-## **Exploration of NLP and Fake News Detection**
+### **Exploration of NLP and Fake News Detection**
 
 As part of my final project for the Intro to Data Science class (CS-215) in Spring 2025, I aim to explore the field of Natural Language Processing (NLP) by implementing a **Fake News Detector Algorithm**. My goal is to analyze patterns in fake and real news articles and visualize the results using various techniques.
 
@@ -29,7 +30,7 @@ As part of my final project for the Intro to Data Science class (CS-215) in Spri
 
 ---
 
-## **AI-Generated Image Detector**
+### **AI-Generated Image Detector**
 
 With the rise of AI-generated media from platforms like OpenAI, distinguishing real from synthetic media has become increasingly challenging. For my second project idea, I aim to develop an **AI-Generated Image Detector** that identifies whether an image is real or AI-generated. 
 
@@ -48,9 +49,9 @@ With the rise of AI-generated media from platforms like OpenAI, distinguishing r
    [Link to Dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 ---
 
-# Plotly Embedding: 
+## Plotly Embedding: 
 {% include_relative Schueller.html %}
 
-# Above & Beyond: 
+## Above & Beyond: 
 {% include_relative K-Means_Centroids_Above_and_Beyond_Minimal.html %}
 
