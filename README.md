@@ -12,47 +12,16 @@ Python, Java, Kotlin
 ## You can contact me at: 
 buahomy@whitman.edu
 
+## My Projects:
 
-## **Final Project Proposal: Intro to Data Science (CS-215)**
+### Market Movements and Election Day: Analyzing Stock Price Volatility 
 
-### **Exploration of NLP and Fake News Detection**
+This project examines stock price volatility (S&P 500, DJI, Nasdaq) during U.S. presidential elections. By analyzing closing price data from October to November, we explore how the market reacts to political uncertainty. Through percentage change calculations and color-coded visualizations (blue for Democrats, red for Republicans), we uncover patterns in market behavior and assess the impact of elections on short-term stock performance.
 
-As part of my final project for the Intro to Data Science class (CS-215) in Spring 2025, I aim to explore the field of Natural Language Processing (NLP) by implementing a **Fake News Detector Algorithm**. My goal is to analyze patterns in fake and real news articles and visualize the results using various techniques.
+[Link to the Project](https://buahomy.github.io/Political-Market-Volatility/)
 
-### **Data Sources for Fake News Detection**
+### Image to Music Playlist Generator
 
-1. **Kaggle Fake News Detection Datasets**  
-   This dataset contains two CSV files (`fake.csv` and `true.csv`) with politics-related news that I hope to use for training my model.  
-   [Link to Dataset](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+This project focuses Image Captioning, TextRank, TF-IDF vectorization, and Cosine Similarity in order to develop an image to song playlist generator Through the project, I was able to create a list of songs recommended in order of the similarity between the generated image caption through the model BLIP-2 and the song lyrics of a million songs from Spotify. The similarity scores of the recommended songs largely reside between the 0.7 and 0.9 mark, and thus there are considerations on how the similarity scores can be improved upon for a possible version 2.
 
-2. **Hugging Face Pre-Trained Model**  
-   To enhance the algorithm, I plan to leverage transfer learning using Hugging Face's pre-trained model, which captures sentiment and context effectively.  
-   [Link to Pre-Trained Model](https://huggingface.co/jy46604790/Fake-News-Bert-Detect)
-
----
-
-### **AI-Generated Image Detector**
-
-With the rise of AI-generated media from platforms like OpenAI, distinguishing real from synthetic media has become increasingly challenging. For my second project idea, I aim to develop an **AI-Generated Image Detector** that identifies whether an image is real or AI-generated. 
-
-### **Data Sources for AI-Generated Image Detection**
-
-1. **OpenXLab Fake Image Dataset**  
-   This open-source dataset includes folders `ImageData` (containing compressed fake image datasets) and `MetaData` (labeling information).  
-   [Link to Dataset](https://openxlab.org.cn/datasets/whlzy/FakeImageDataset/tree/main)
-
-2. **Hugging Face Fake Image Dataset**  
-   An alternative dataset hosted on Hugging Face, providing similar labeling and metadata.  
-   [Link to Dataset](https://huggingface.co/datasets/InfImagine/FakeImageDataset/tree/main)
-
-3. **Kaggle CIFAKE Dataset**  
-   This dataset contains 60,000 synthetically-generated images and 60,000 real images. It also provides an opportunity to share and optimize my work alongside other practitioners.  
-   [Link to Dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
----
-
-## Plotly Embedding: 
-{% include_relative Schueller.html %}
-
-## Above & Beyond: 
-{% include_relative K-Means_Centroids_Above_and_Beyond_Minimal.html %}
-
+[Link to the Project](https://buahomy.github.io/Image-to-Music-Playlist-Generator/)
