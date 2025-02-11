@@ -4,7 +4,7 @@ CS Major Sophomore at Whitman College
 
 ## Relevant Coursework: 
 Computational Problem Solving, Multivariable Calculus, Machine Learning , Data Structures &
-Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming (In Progress), Statistics with Applications (In Progress), Intro to Data Science (In Progress)
+Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming, Statistics with Applications, Intro to Data Science, Financial Accouting (In Progress)
 
 ## I am fluent in: 
 Python, Java, Kotlin
