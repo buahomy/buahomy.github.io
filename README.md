@@ -1,16 +1,17 @@
 
 ## About Me: 
-CS Major Sophomore at Whitman College
+Junior CS Major with Math & Data Science Minors at Whitman College
 
 ## Relevant Coursework: 
 Computational Problem Solving, Multivariable Calculus, Machine Learning , Data Structures &
-Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming, Statistics with Applications, Intro to Data Science, Financial Accouting (In Progress)
+Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming, Statistics with Applications, Intro to Data Science, Financial Accouting (In Progress), Algorithm Design & Analysis (In Progress), Computer System Fundamentals (In Progress)
 
 ## I am fluent in: 
 Python, Java, Kotlin
 
 ## You can contact me at: 
-buahomy@whitman.edu
+Email: buahomy@whitman.edu
+Phone number: 5092005514
 
 ## My Projects:
 
