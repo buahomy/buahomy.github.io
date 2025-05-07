@@ -1,7 +1,7 @@
 
 ## About Me: 
 Junior CS Major with Math & Data Science Minors at Whitman College
-![Pure](Screen Shot 2025-03-06 at 11.46.37 PM.png)
+![Pure](IMG_6144-Photoroom.png)
 
 ## Relevant Coursework: 
 Computational Problem Solving, Multivariable Calculus, Machine Learning , Data Structures &
