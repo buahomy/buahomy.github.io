@@ -11,7 +11,7 @@ Algorithms, Linear Algebra, Discrete Mathematics & Functional Programming, Stati
 Python, Java, Kotlin
 
 ## You can contact me at: 
-Email: buahomy@whitman.edu
+Email: yuttanawee69@gmail.com
 Phone number: 5092005514
 
 ## My Projects:
