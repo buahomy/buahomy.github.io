@@ -1,10 +1,10 @@
 
 ## About Me: 
 Junior CS Major with Math & Data Science Minors at Whitman College
-![Pure](IMG_8880.png)
+!![Profile Photo](IMG_8880.PNG)
 
 ## Unoffical Transcript: 
-(IMG_8880.png)
+![Unofficial Transcript](unofficial-transcript (1).pdf)
 
 ## I am fluent in: 
 Python, Java, Kotlin
