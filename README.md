@@ -24,7 +24,7 @@ This project examines stock price volatility (S&P 500, DJI, Nasdaq) during U.S. 
 ### Melodrip: Image to Music Playlist Generator
 This project focuses Image Captioning, TextRank, TF-IDF vectorization, and Cosine Similarity in order to develop an image to song playlist generator Through the project, I was able to create a list of songs recommended in order of the similarity between the generated image caption through the model BLIP-2 and the song lyrics of a million songs from Spotify. The similarity scores of the recommended songs largely reside between the 0.7 and 0.9 mark, and thus there are considerations on how the similarity scores can be improved upon for a possible version 2.
 
-[Link to the Project](https://buahomy.github.io/Image-to-Music-Playlist-Generator/)
+[Link to the Project](https://github.com/buahomy/MELODRIP-Image-to-Music-Playlist-Generator/tree/main)
 
 ### Pose Pilot: AI bad posture detector
 Achieved real-time posture analysis at **20+ FPS** using **YOLOv8-Pose** and optimized vector math, enabling seamless webcam monitoring without additional hardware, with fast keypoint extraction and live posture analysis.
