@@ -33,5 +33,5 @@ Integrated **Gemini AI** and dynamic **TTS feedback** to deliver interactive pos
 [Link to the Project](https://devpost.com/software/pose-pilot)
 
 ### The End: Study aboard 10-min film (Received "Honourable Mention" from IES Film Festival)
-[Honorable Mention Laurel]()
+[Honorable Mention Laurel](/Study-Abroad-Film-Festival-2026-Honourable-Laurel.png)
 [Link to the Project](https://filmfreeway.com/projects/4331022)
