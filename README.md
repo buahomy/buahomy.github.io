@@ -1,7 +1,7 @@
 
 ## About Me: 
 Junior CS Major with Math & Data Science Minors at Whitman College
-!![Profile Photo](IMG_8880.jpg)
+![Profile Photo](IMG_8880.jpg)
 
 ## Unofficial Transcript
 
@@ -33,5 +33,5 @@ Integrated **Gemini AI** and dynamic **TTS feedback** to deliver interactive pos
 [Link to the Project](https://devpost.com/software/pose-pilot)
 
 ### The End: Study aboard 10-min film (Received "Honourable Mention" from IES Film Festival)
-[Honorable Mention Laurel](/Study-Abroad-Film-Festival-2026-Honourable-Laurel.png)
+![Honorable Mention Laurel](/Study-Abroad-Film-Festival-2026-Honourable-Laurel.png)
 [Link to the Project](https://filmfreeway.com/projects/4331022)
