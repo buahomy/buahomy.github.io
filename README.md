@@ -30,5 +30,5 @@ This project focuses Image Captioning, TextRank, TF-IDF vectorization, and Cosin
 Achieved real-time posture analysis at **20+ FPS** using **YOLOv8-Pose** and optimized vector math, enabling seamless webcam monitoring without additional hardware, with fast keypoint extraction and live posture analysis.
 Integrated **Gemini AI** and dynamic **TTS feedback** to deliver interactive posture coaching, combining contextual visual analysis, live chat Q&A, and human-like voice responses for a smarter, more immersive user experience.
 
-[Link to the Project]([https://buahomy.github.io/Image-to-Music-Playlist-Generator/](https://devpost.com/software/pose-pilot))
+[Link to the Project](https://devpost.com/software/pose-pilot)
 
